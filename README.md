@@ -1,2 +1,2 @@
-# Code used for SDMs
-These are code snippets from SDMs created
+# SDM code - chapter 1
+Chapter 123
